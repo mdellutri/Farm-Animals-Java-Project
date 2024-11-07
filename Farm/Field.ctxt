@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Field
+comment1.params=tw\ th
+comment1.target=Field(int,\ int)
+comment2.params=f
+comment2.target=void\ getAnimals(Animal[][])
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=n
+comment5.target=void\ grow(int)
+comment6.params=col\ row
+comment6.target=void\ graze(int,\ int)
+numComments=7
